@@ -1,6 +1,5 @@
 ## Cryptographic
 https://tryhackme.com/r/room/crackthehashlevel2
-https://tryhackme.com/r/room/cryptographybasics
 
 ## Privilege Escalation
 https://tryhackme.com/r/room/linprivesc
@@ -13,7 +12,6 @@ https://tryhackme.com/r/room/airplane
 ## OSINT Rooms 
 #### Easy
 
-https://tryhackme.com/r/room/ohsint
 https://tryhackme.com/r/room/sakura
 https://tryhackme.com/r/room/searchlightosint
 https://tryhackme.com/r/room/geolocatingimages
@@ -81,3 +79,12 @@ https://tryhackme.com/room/wreath
 ## ???
 https://tryhackme.com/r/room/catpictures2
 https://tryhackme.com/room/ctfcollectionvol1
+
+https://tryhackme.com/room/ffuf
+https://tryhackme.com/room/dirtypipe
+https://tryhackme.com/room/pwnkit
+https://tryhackme.com/room/intropocscripting
+https://tryhackme.com/room/polkit
+https://tryhackme.com/room/confluence202322515
+https://tryhackme.com/room/localpotato
+https://tryhackme.com/room/monikerlink
